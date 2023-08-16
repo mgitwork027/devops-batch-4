@@ -1,1 +1,3 @@
-devops learning on git 
+devops learning on git
+add new devops function
+ 
