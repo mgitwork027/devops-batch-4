@@ -1,4 +1,3 @@
 devops learning on git
 add new devops function
 Add a new function :A
-add second function :B 
